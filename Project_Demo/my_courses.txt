@@ -1,0 +1,3 @@
+{'Course Code': 'CSC1', 'Name': 'C++', 'Credit': 3, 'prerequisite': 'N/A'}
+{'Course Code': 'CSC2', 'Name': 'C#', 'Credit': 3, 'prerequisite': 'CSC1'}
+{'Course Code': 'CSC3', 'Name': 'Python', 'Credit': 3, 'prerequisite': 'CSC2'}
